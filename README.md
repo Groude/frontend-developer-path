@@ -1,5 +1,4 @@
 # Frontend Developer Path.
-
 ---
 
 ## Introduction:
