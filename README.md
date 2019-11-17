@@ -1,10 +1,10 @@
 # Frontend Developer Path.
 
-<span style="font-size: 20px; font-weight:600">✓</span> - course finished
+<span style="font-size: 20px; font-weight:600;">✓</span> - course finished
 
-<span style="font-size: 20px; font-weight:600">×</span> - course missed
+<span style="font-size: 20px; font-weight:600;">×</span> - course missed
 
-<span style="font-size: 20px; font-weight:600">◊</span> - in progress
+<span style="font-size: 20px; font-weight:600;">☯</span> - in progress
 
 
 ## Introduction:
@@ -19,6 +19,8 @@
     * [Front End Web Development](https://teamtreehouse.com/tracks/front-end-web-development) ✓
   * ### [Udemy](https://www.udemy.com/)
       * [The Complete Web Developer in 2020: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) ✓
-      * [The Complete Javascript Course: Build Real Projects](https://www.udemy.com/course/the-complete-javascript-course) ◊
+      * [The Complete Javascript Course: Build Real Projects](https://www.udemy.com/course/the-complete-javascript-course) ☯
 
 ## Books:
+  * [Eloquent Javascript](https://eloquentjavascript.net/) ☯
+  * [You don't know JS book series](https://github.com/getify/You-Dont-Know-JS)
