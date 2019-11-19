@@ -19,12 +19,13 @@
     * [Front End Web Development](https://teamtreehouse.com/tracks/front-end-web-development) ✓
   * ### [Udemy](https://www.udemy.com/)
       * [The Complete Web Developer in 2020: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) ✓
-      * [The Complete Javascript Course: Build Real Projects](https://www.udemy.com/course/the-complete-javascript-course) ☯
+      * [The Complete Javascript Course: Build Real Projects](https://www.udemy.com/course/the-complete-javascript-course) 
+      * [Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery) 13/36
   * ### [Hexlet](https://ru.hexlet.io/my)
     * [Фронтенд JavaScript](https://ru.hexlet.io/professions/frontend)
 
 ## Books:
-  * [Eloquent Javascript](https://eloquentjavascript.net/) ☯
+  * [Eloquent Javascript](https://eloquentjavascript.net/)
   * [You don't know JS book series](https://github.com/getify/You-Dont-Know-JS)
 
 ## Articles:
