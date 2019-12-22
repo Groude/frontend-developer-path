@@ -23,6 +23,8 @@
       * [Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery) 13/36
   * ### [Hexlet](https://ru.hexlet.io/my)
     * [Фронтенд JavaScript](https://ru.hexlet.io/professions/frontend)
+  * ### [Youtube](https://www.youtube.com)
+    * [Timur Shemsedinov](https://www.youtube.com/user/sthxnp/playlists) 
 
 ## Books:
   * [Eloquent Javascript](https://eloquentjavascript.net/)
